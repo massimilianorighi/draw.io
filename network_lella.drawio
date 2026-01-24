@@ -4,6 +4,73 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-16" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="X7X2ihUPZhbmqbEeOZl2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-17" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="X7X2ihUPZhbmqbEeOZl2-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-1" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" value="Netgear RBS50" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-13" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="X7X2ihUPZhbmqbEeOZl2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-15" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="X7X2ihUPZhbmqbEeOZl2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" value="Netgear RBR50" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-18" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="X7X2ihUPZhbmqbEeOZl2-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-19" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="X7X2ihUPZhbmqbEeOZl2-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-3" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" value="Netgear RBS50" vertex="1">
+          <mxGeometry height="80" width="80" x="700" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-4" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" value="Camera ingresso lato circolo" vertex="1">
+          <mxGeometry height="35.4" width="37.2" x="180" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-5" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" value="Camera ingresso lato cancello" vertex="1">
+          <mxGeometry height="35.4" width="37.2" x="180" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-6" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" value="Camera lato casetta" vertex="1">
+          <mxGeometry height="35.4" width="37.2" x="610" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-7" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" value="Camera lato garage" vertex="1">
+          <mxGeometry height="35.4" width="37.2" x="610" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-12" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="X7X2ihUPZhbmqbEeOZl2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-8" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-11" edge="1" parent="1" source="X7X2ihUPZhbmqbEeOZl2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="X7X2ihUPZhbmqbEeOZl2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7X2ihUPZhbmqbEeOZl2-10" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" value="Internet" vertex="1">
+          <mxGeometry height="50" width="50" x="400" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
